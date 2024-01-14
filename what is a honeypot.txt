@@ -1,0 +1,12 @@
+A honeypot is a cybersecurity exploit designed to crawl and detect malicious 
+activity that mimics vulnerable systems or services. 
+Acting as a lure, the honeycomb appears to be a normal part of the network, 
+attracting attackers to interact with it. 
+There are two main types of honeycombs: low connectivity honeycombs, 
+which do not reflect the actual processing patterns and simulate tasks, 
+and highly connected honeycombs, which use real patterns to create more realistic
+scenarios Honeypots detection of malicious behavior Analysis also, 
+serves purposes such as acting as a deterrent, facilitating investigations,
+and assisting in forensic investigations but the use of honey pots requires 
+consideration of legal and ethical implications carefully, 
+allowing the avoidance of potential legal consequences is important.
